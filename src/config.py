@@ -1,0 +1,1 @@
+META_TREINO = 300
