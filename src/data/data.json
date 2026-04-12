@@ -3,5 +3,35 @@
     "tipo": "treino",
     "tempo": 61,
     "data": "2026-04-11"
+  },
+  {
+    "tipo": "treino",
+    "tempo": 60,
+    "data": "2026-04-11"
+  },
+  {
+    "tipo": "jejum",
+    "tempo": 12,
+    "data": "2026-04-11"
+  },
+  {
+    "tipo": "treino",
+    "tempo": 30,
+    "data": "2026-04-11"
+  },
+  {
+    "tipo": "jejum",
+    "tempo": 23,
+    "data": "2026-04-11"
+  },
+  {
+    "tipo": "treino",
+    "tempo": 45,
+    "data": "2026-04-11"
+  },
+  {
+    "tipo": "jejum",
+    "tempo": 24,
+    "data": "2026-04-11"
   }
 ]
