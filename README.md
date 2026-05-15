@@ -1,3 +1,7 @@
+## 🌐 Deploy Online
+
+https://discipline-cli.streamlit.app
+
 # Discipline CLI 🏋🏻‍💪🏻💅🏻
 
 Aplicação CLI para monitoramento de hábitos de wellness como treinos diversos e jejum intermitente.
